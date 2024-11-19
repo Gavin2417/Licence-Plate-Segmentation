@@ -1,6 +1,6 @@
-# Digital Image Processing (DIP) Assignment APPM4058A
+# Digital Image Processing on Licence Plate Segmentation
 
-### 2303289, Damion Harvey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2302891, Wen Guan Gavin Chen
+### Damion Harvey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wen Guan Gavin Chen
 
 <!-- TOC -->
 
@@ -21,9 +21,6 @@ This project was written in a Jupyer notebook and thus requires a Jupyer Kernel 
 ```
 DIP-Project
 │
-│   2303289_2302891_report.pdf
-│
-└───2303289_2302891_src
 │   │   
 │   │   licence_plate_segmentor.ipynb
 │   │   README.md
